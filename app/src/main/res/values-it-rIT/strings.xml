@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scoreButton">Punto</string>
+    <string name="stealButton">Rubare</string>
+    <string name="resetButton">Ripristina</string>
+</resources>

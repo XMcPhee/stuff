@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Contest</string>
+    <string name="scoreCount">0</string>
+    <string name="scoreButton">Score</string>
+    <string name="stealButton">Steal</string>
+    <string name="resetButton">Reset</string>
+</resources>
